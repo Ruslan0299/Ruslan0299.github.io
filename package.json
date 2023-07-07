@@ -1,0 +1,16 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "my final project",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruslan",
+  "license": "ISC",
+  "dependencies": {
+    "swiper": "^9.4.1",
+    "validator": "^13.9.0"  
+  }
+} 
